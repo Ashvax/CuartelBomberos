@@ -5,7 +5,7 @@ import java.util.Date;
 public class Siniestro {
     private int codigo;
     private String tipo;
-    private Date fechaSiniestro;
+    private Date fechaSiniestro; //LocalDate Time
     private int coordX;
     private int coordY;
     private String detalles;

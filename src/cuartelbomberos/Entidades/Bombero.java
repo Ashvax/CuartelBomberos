@@ -8,8 +8,8 @@ public class Bombero {
     private String nombreApellido;
     private Date fechaNacimiento;
     private String celular;
-    private int codBrigada;
-    private Brigada brigada;
+    private int codBrigada; //Tiene que ser tipo brigada 
+    private Brigada brigada; // o este
 
     public Bombero() {
     }

@@ -4,7 +4,7 @@ private int codBrigada;
     private String nombreBr;
     private String especialidad;
     private boolean libre;
-    private int nroCuartel;
+    private int nroCuartel; //Cuartel de tipo entero cambiar a cuartel
 
     public Brigada() {
     }
