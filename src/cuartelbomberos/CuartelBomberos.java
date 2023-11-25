@@ -1,6 +1,6 @@
 package cuartelbomberos;
 
-import com.sun.jdi.connect.spi.Connection;
+
 import cuartelbomberos.AccesoADatos.BomberoData;
 import cuartelbomberos.AccesoADatos.BrigadaData;
 import cuartelbomberos.AccesoADatos.Conexion;
